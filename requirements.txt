@@ -1,0 +1,16 @@
+openai>=2.0
+pillow>=10.0
+tqdm>=4.66
+PyYAML>=6.0
+pandas>=2.0
+matplotlib>=3.8
+numpy>=1.26
+requests>=2.31
+
+# Install these according to the CUDA and model-serving environment.
+# torch
+# torchvision
+# transformers
+# accelerate
+# diffusers
+# vllm
